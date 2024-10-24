@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Michael
 
 - :computer: Data Scientist
 - :hammer_and_wrench: I build models with: `Python` `SQL` `Azure` `R` `Zsh/Bash` `Databricks` ...
